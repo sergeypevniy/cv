@@ -1,10 +1,10 @@
 # Vladyslav Andriushchenko
-<a href="tel:0123456789" style="color:blue">0123.456.789</a>
+![ ](https://img.icons8.com/color/20/null/message-squared.png) [Email](mailto:vladislavandruschenko@gmail.com)   ![ ](https://img.icons8.com/fluency/20/null/linkedin.png)[LinkedIn](https://www.linkedin.com/in/vladyslav-andriushchenko-71b56a153/)
 
 
 ## Summary
 ## Skills
-###
+### dfg
 
 ## Work exprience
 

@@ -1,22 +1,31 @@
 # Vladyslav Andriushchenko
 ## Skills
 ## Work exprience
+
+**EPAM Systems**<br>
+Software Engineer<br>
+_Aug 2022 - Feb 2023_
+
+**EPAM Systems**<br>
+QA Automation Engineer<br>
+_Feb 2019 - Aug 2022_
+
+**Simcord LLC**<br>
+QA Automation Engineer<br>
+_Jun 2017 - Feb 2019_
+
+
 ## Education
+**O.M. Beketov National University of Urban Economy in Kharkiv**<br>
+_Master's degree, Computer Science (2020 - 2021)_  <br>
 
 **O.M. Beketov National University of Urban Economy in Kharkiv**<br>
-Master's degree, Computer Science<br>
-2020 - 2021
-
-**O.M. Beketov National University of Urban Economy in Kharkiv**<br>
-Bachelor's degree, Computer Science<br>
-2017 - 2020
+_Bachelor's degree, Computer Science (2017 - 2020)_ <br>
 
 **Kharkiv Radio Engineering Technical School**<br>
-Junior Specialist, Software Development<br>
-2013 - 2017
+_Junior Specialist, Software Development (2013 - 2017)_
 
-
-##### Languages
+### Languages
 **English**: B1 <br>
 **Ukrainian**: native <br>
 **Russian**: native

@@ -7,6 +7,7 @@
   <img valign="middle" src="https://img.icons8.com/fluency/20/null/linkedin.png" />
   <a href="https://www.linkedin.com/in/vladyslav-andriushchenko-71b56a153/">LinkedIn</a>
 </div>
+<br>
 
 ## Summary
 Java Developer. Has a master's degree in computer science, good knowledge of the object-oriented paradigm. Interested in developing WEB applications for various tasks. Participated in the project development using Spring Framework. Can quickly study new software product, technology.

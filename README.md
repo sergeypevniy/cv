@@ -9,12 +9,15 @@
 </div>
 
 ## Summary
-* orem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+Java Developer. Has a master's degree in computer science, good knowledge of the object-oriented paradigm. Interested in developing WEB applications for various tasks. Participated in the project development using Spring Framework. Can quickly study new software product, technology.
+
 ## Skills
-### Have hands-on experience
-* Java, Spring, SQL, Gradle, Maven, Groovy, Selenium, TestNG, JUnit
-### Familiar
-* Python, Kotlin, GoLang, Groovy, C++, C#, liquibase
+**Have hands-on experience**<br>
+* Java, Spring, SQL, Gradle, Maven, Groovy, Selenium, TestNG, JUnit, Jenkins
+<br>
+**Familiar**<br>
+* Python, Kotlin, GoLang, Groovy, C++, C#, liquibase, Elastic Search, Redis, RabbitMQ, 
+<br>
 
 ## Work exprience
 

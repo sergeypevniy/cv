@@ -6,6 +6,9 @@
   <span>&nbsp;&nbsp;|&nbsp;&nbsp;</span>
   <img valign="middle" src="https://img.icons8.com/fluency/20/null/linkedin.png" />
   <a href="https://www.linkedin.com/in/vladyslav-andriushchenko-71b56a153/">LinkedIn</a>
+  <span>&nbsp;&nbsp;|&nbsp;&nbsp;</span>
+  <img valign="middle" src="https://img.icons8.com/fluency/20/null/telegram-app.png" />
+  <a href="https://t.me/Lemnus">Telegram</a>
 </div>
 <br>
 

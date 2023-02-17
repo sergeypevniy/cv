@@ -13,35 +13,35 @@
 <br>
 
 ## Summary
-Java Software Engineer. Has a master's degree in computer science, good knowledge of the object-oriented paradigm. Interested in developing WEB applications for various tasks. Participated in the project development using Spring Framework. Can quickly study new software product, technology.
+Java Software Engineer. Has a master's degree in computer science, and good knowledge of the object-oriented paradigm. Interested in developing WEB applications for various tasks. Participated in the project development using Spring Framework. Can quickly study new software product or technology.
 
 ## Skills
 **Have hands-on experience**<br>
 * Java, Spring, SQL, Gradle, Maven, Groovy, Jenkins, CI/CD, Selenium, TestNG, JUnit, JBehave
 
 **Familiar**<br>
-* Python, Kotlin, GoLang, Groovy, C++, C#, Jython, MongoDB, Liquibase, Elastic Search, Redis, RabbitMQ, Docker, Kubernates, Hibernate, HTML/CSS
+* Python, Kotlin, GoLang, Groovy, C++, C#, Jython, MongoDB, Liquibase, Elastic Search, Redis, RabbitMQ, Docker, Kubernetes, Hibernate, HTML/CSS
 <br>
 
-## Work exprience
+## Work experience
 
 **EPAM Systems**<br>
 Software Engineer _(Aug 2022 - Feb 2023)_<br>
 QA Automation Engineer _(Feb 2019 - Aug 2022)_<br>
 
-* Participated in development of web application with microservices arhitecture
-* Participated in Code Review sessions receiving positive feedback every time
-* Metnored multiple QA Automation Engineers
+* Participated in the development of the web application with microservices architecture
+* Participated in the Code Review sessions receiving positive feedback every time
+* Mentored multiple QA Automation Engineers
 * Created a large set of both UI and API tests for the application
 
 
 **Simcord LLC**<br>
 QA Automation Engineer _(Jun 2017 - Feb 2019)_<br>
 
-* Wrote perfomance and functional automated API tests
-* Participated in analysing reqiuerments
-* Created an CI/CD pipeline using Jenkins
-* Participated in fixing bugs in the aplication services (GoLang/Java)
+* Wrote performance and functional automated API tests
+* Participated in analyzing requirements
+* Created a CI/CD pipeline using Jenkins
+* Participated in fixing bugs in the application services (GoLang/Java)
 
 ## Education
 **O.M. Beketov National University of Urban Economy in Kharkiv**<br>

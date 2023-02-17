@@ -14,7 +14,7 @@ Java Developer. Has a master's degree in computer science, good knowledge of the
 ## Skills
 **Have hands-on experience**<br>
 * Java, Spring, SQL, Gradle, Maven, Groovy, Selenium, TestNG, JUnit, Jenkins
-<br>
+
 **Familiar**<br>
 * Python, Kotlin, GoLang, Groovy, C++, C#, liquibase, Elastic Search, Redis, RabbitMQ, 
 <br>

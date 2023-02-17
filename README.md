@@ -1,5 +1,11 @@
 # Vladyslav Andriushchenko
+<a href="tel:0123456789" style="color:blue">0123.456.789</a>
+
+
+## Summary
 ## Skills
+###
+
 ## Work exprience
 
 **EPAM Systems**<br>
@@ -15,15 +21,15 @@ QA Automation Engineer _(Jun 2017 - Feb 2019)_<br>
 
 ## Education
 **O.M. Beketov National University of Urban Economy in Kharkiv**<br>
-_Master's degree, Computer Science (2020 - 2021)_  <br>
+Master's degree, Computer Science _(2020 - 2021)_  <br>
 
 **O.M. Beketov National University of Urban Economy in Kharkiv**<br>
-_Bachelor's degree, Computer Science (2017 - 2020)_ <br>
+Bachelor's degree, Computer Science _(2017 - 2020)_ <br>
 
 **Kharkiv Radio Engineering Technical School**<br>
-_Junior Specialist, Software Development (2013 - 2017)_
+Junior Specialist, Software Development _(2013 - 2017)_
 
 ## Languages
-**English**: B1 <br>
-**Ukrainian**: native <br>
-**Russian**: native
+* **English**: B1 <br>
+* **Ukrainian**: native <br>
+* **Russian**: native

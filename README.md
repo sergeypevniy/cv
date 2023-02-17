@@ -20,7 +20,7 @@ Java Software Engineer. Has a master's degree in computer science, and good know
 * Java, Spring, SQL, Gradle, Maven, Groovy, Jenkins, CI/CD, Selenium, TestNG, JUnit, JBehave
 
 **Familiar**<br>
-* Python, Kotlin, GoLang, Groovy, C++, C#, Jython, MongoDB, Liquibase, Elastic Search, Redis, RabbitMQ, Docker, Kubernetes, Hibernate, HTML/CSS
+* Python, Kotlin, GoLang, Groovy, MongoDB, Liquibase, Elastic Search, Redis, RabbitMQ, Docker, Kubernetes, Hibernate, HTML/CSS
 <br>
 
 ## Work experience

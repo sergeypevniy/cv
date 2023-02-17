@@ -3,16 +3,14 @@
 ## Work exprience
 
 **EPAM Systems**<br>
-Software Engineer<br>
-_Aug 2022 - Feb 2023_
+_Software Engineer (Aug 2022 - Feb 2023)_<br>
 
 **EPAM Systems**<br>
-QA Automation Engineer<br>
-_Feb 2019 - Aug 2022_
+_QA Automation Engineer (Feb 2019 - Aug 2022)_<br>
 
 **Simcord LLC**<br>
-QA Automation Engineer<br>
-_Jun 2017 - Feb 2019_
+_QA Automation Engineer (Jun 2017 - Feb 2019)_<br>
+
 
 
 ## Education

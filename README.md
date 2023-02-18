@@ -54,6 +54,6 @@ Bachelor's degree, Computer Science _(2017 - 2020)_ <br>
 Junior Specialist, Software Development _(2013 - 2017)_
 
 ## Languages
-* **English**: B1 <br>
+* **English**: B2 <br>
 * **Ukrainian**: native <br>
 * **Russian**: native

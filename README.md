@@ -13,7 +13,7 @@
 <br>
 
 ## Summary
-Java Software Engineer. Has good knowledge of the object-oriented paradigm. Interested in developing WEB applications for various tasks. Participated in the project development using Spring Framework.
+Java Software Engineer having 6 years of expirience in IT industry. Worked on 3 completely different projects. Able to work independently and as a team member in a dynamic software development environment. Has deep knowledge of the object-oriented paradigm. Interested in developing WEB applications for various tasks. Participated in the project development using Spring Framework.
 
 
 ## Skills

@@ -23,14 +23,14 @@ Java Software Engineer. Has good knowledge of the object-oriented paradigm. Inte
 **Familiar**<br>
 * Python, Kotlin, GoLang, Groovy, MongoDB, Liquibase, Elastic Search, Redis, RabbitMQ, Docker, Kubernetes, Hibernate, HTML/CSS
 
-##Personal values
-Integrity
-Flexibility
-Purposefulness
-Reliability and responsibility
-Loyalty
-Positive attitude
-Self-motivated and able to work without a supervision
+## Personal values
+Integrity <br>
+Flexibility <br>
+Purposefulness <br>
+Reliability and responsibility <br>
+Loyalty <br>
+Positive attitude <br>
+Self-motivated and able to work without a supervision <br>
 Willingness and ability to learn new
 
 ## Work experience

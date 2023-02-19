@@ -13,7 +13,8 @@
 <br>
 
 ## Summary
-Java Software Engineer. Has a master's degree in computer science, and good knowledge of the object-oriented paradigm. Interested in developing WEB applications for various tasks. Participated in the project development using Spring Framework. Can quickly study new software product or technology.
+Java Software Engineer. Has good knowledge of the object-oriented paradigm. Interested in developing WEB applications for various tasks. Participated in the project development using Spring Framework.
+
 
 ## Skills
 **Have hands-on experience**<br>
@@ -21,7 +22,16 @@ Java Software Engineer. Has a master's degree in computer science, and good know
 
 **Familiar**<br>
 * Python, Kotlin, GoLang, Groovy, MongoDB, Liquibase, Elastic Search, Redis, RabbitMQ, Docker, Kubernetes, Hibernate, HTML/CSS
-<br>
+
+##Personal values
+Integrity
+Flexibility
+Purposefulness
+Reliability and responsibility
+Loyalty
+Positive attitude
+Self-motivated and able to work without a supervision
+Willingness and ability to learn new
 
 ## Work experience
 
@@ -32,6 +42,7 @@ QA Automation Engineer _(Feb 2019 - Aug 2022)_<br>
 * Participated in the development of the web application with microservices architecture
 * Participated in the Code Review sessions receiving positive feedback every time
 * Mentored multiple QA Automation Engineers
+* Created a complete video-instruction for newcomers 
 * Created a large set of both UI and API tests for the application
 
 

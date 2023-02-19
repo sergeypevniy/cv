@@ -31,7 +31,8 @@ Reliability and responsibility <br>
 Loyalty <br>
 Positive attitude <br>
 Self-motivated and able to work without a supervision <br>
-Willingness and ability to learn new
+Willingness and ability to learn new<br>
+Can easily dive into new subjects
 
 ## Work experience
 

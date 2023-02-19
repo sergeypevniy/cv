@@ -13,7 +13,7 @@
 <br>
 
 ## Summary
-Java Software Engineer having 6 years of expirience in IT industry. Worked on multiple completely different projects in financial, cryptocurrency and copyright domains. Able to work independently and as a team member in a dynamic software development environment. Has deep knowledge of the object-oriented paradigm. Highly interested in developing WEB applications for various purposes. Participated in the project development using Spring Framework.
+Java Software Engineer having 6 years of experience in IT industry. Worked on multiple completely different projects in financial, cryptocurrency and copyright domains. Able to work independently and as a team member in a dynamic software development environment. Has deep knowledge of the object-oriented paradigm. Highly interested in developing WEB applications for various purposes. Participated in the project development using Spring Framework.
 
 
 ## Skills

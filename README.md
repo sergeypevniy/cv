@@ -21,7 +21,7 @@ Java Software Engineer having 6 years of experience in IT industry. Worked on mu
 * Java, Spring, SQL, Gradle, Maven, Groovy, Jenkins, CI/CD, Selenium, TestNG, JUnit, JBehave, Cucumber
 
 **Familiar**<br>
-* Python, Kotlin, GoLang, Groovy, MongoDB, Liquibase, Elastic Search, Redis, RabbitMQ, Docker, Kubernetes, Hibernate, HTML/CSS
+* Python, Kotlin, GoLang, MongoDB, Liquibase, Elastic Search, Redis, RabbitMQ, Docker, Kubernetes, Hibernate, HTML/CSS
 
 ## Personal values
 Integrity <br>

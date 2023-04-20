@@ -13,8 +13,7 @@
 <br>
 
 ## Summary
-Java Software Engineer having 6 years of experience in IT industry. Worked on multiple projects in financial, cryptocurrency and copyright domains. Able to work independently and as a team member in a dynamic software development environment. Has deep knowledge of the object-oriented paradigm. Highly interested in developing WEB applications for various purposes. Participated in the project development using Spring Framework. Has strong analytical and leadership skills.
-
+QA Engineer (automation and manual testing) with more than 6 years of cross-cutting experience in testing and software development. Worked on multiple projects in financial, cryptocurrency, and copyright domains. Able to work independently and as a team member in a dynamic software development environment. Has deep knowledge of the object-oriented paradigm. Participated in the project development using Spring Framework. Has strong analytical and leadership skills.
 
 ## Skills
 **Have hands-on experience**<br>
@@ -38,7 +37,9 @@ Can easily dive into new subjects
 
 **EPAM Systems**<br>
 Software Engineer _(Aug 2022 - Feb 2023)_<br>
+* **Skills:** Java · Spring Framework · SQL · Gradle · Jenkins · CI/CD · Liquibase · Bash · Git
 QA Automation Engineer _(Feb 2019 - Aug 2022)_<br>
+* **Skills:** Java · Spring Framework · SQL · Gradle · Jenkins · CI/CD · Selenium · TestNG · JUnit · Cucumber · Liquibase · Bash · Git
 
 * Participated in the development of the web application with microservices architecture
 * Participated in the Code Review sessions receiving positive feedback every time
@@ -49,6 +50,7 @@ QA Automation Engineer _(Feb 2019 - Aug 2022)_<br>
 
 **Simcord LLC**<br>
 QA Automation Engineer _(Jun 2017 - Feb 2019)_<br>
+* **Skills:** Java · Spring Framework · SQL · Maven · Jenkins · CI/CD · JUnit · Groovy · Go (Programming Language) · Elasticsearch · Redis · RabbitMQ · Docker · Kubernetes · Bash · Ubuntu · Git
 
 * Wrote performance and functional automated API tests
 * Participated in analyzing requirements

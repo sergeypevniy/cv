@@ -51,7 +51,7 @@ QA Automation Engineer _(Feb 2019 - Aug 2022)_<br>
 
 **Simcord LLC**<br>
 QA Automation Engineer _(Jun 2017 - Feb 2019)_<br>
-* **Skills:** Java · Spring Framework · SQL · Maven · Jenkins · CI/CD · JUnit · Groovy · Go (Programming Language) · Elasticsearch · Redis · RabbitMQ · Docker · Kubernetes · Bash · Ubuntu · Git
+**Skills:** Java · Spring Framework · SQL · Maven · Jenkins · CI/CD · JUnit · Groovy · Go (Programming Language) · Elasticsearch · Redis · RabbitMQ · Docker · Kubernetes · Bash · Ubuntu · Git
 
 * Wrote performance and functional automated API tests
 * Participated in analyzing requirements

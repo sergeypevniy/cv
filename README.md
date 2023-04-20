@@ -36,10 +36,10 @@ Can easily dive into new subjects
 ## Work experience
 
 **EPAM Systems**<br>
-Software Engineer _(Aug 2022 - Feb 2023)_
+Software Engineer _(Aug 2022 - Feb 2023)_<br>
 **Skills:** Java · Spring Framework · SQL · Gradle · Jenkins · CI/CD · Liquibase · Bash · Git<br>
 
-QA Automation Engineer _(Feb 2019 - Aug 2022)_
+QA Automation Engineer _(Feb 2019 - Aug 2022)_<br>
 **Skills:** Java · Spring Framework · SQL · Gradle · Jenkins · CI/CD · Selenium · TestNG · JUnit · Cucumber · Liquibase · Bash · Git<br>
 
 * Participated in the development of the web application with microservices architecture

@@ -22,17 +22,6 @@ QA Engineer (automation and manual testing) with more than 6 years of cross-cutt
 **Familiar**<br>
 * Python, Kotlin, GoLang, MongoDB, Liquibase, Elastic Search, Redis, RabbitMQ, Docker, Kubernetes, Hibernate, HTML/CSS
 
-## Personal values
-Integrity <br>
-Flexibility <br>
-Purposefulness <br>
-Reliability and responsibility <br>
-Loyalty <br>
-Positive attitude <br>
-Self-motivated and able to work without a supervision <br>
-Willingness and ability to learn new<br>
-Can easily dive into new subjects
-
 ## Work experience
 
 **EPAM Systems**<br>

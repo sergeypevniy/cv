@@ -27,10 +27,10 @@ QA Engineer (automation and manual testing) with more than 6 years of cross-cutt
 **EPAM Systems**<br>
 
 Software Engineer _(Aug 2022 - Feb 2023)_<br>
-**Skills:** Java · Spring Framework · SQL · Gradle · Jenkins · CI/CD · Liquibase · Bash · Git<br>
+**Skills used:** Java · Spring Framework · SQL · Gradle · Jenkins · CI/CD · Liquibase · Bash · Git<br>
 
 QA Automation Engineer _(Feb 2019 - Aug 2022)_<br>
-**Skills:** Java · Spring Framework · SQL · Gradle · Jenkins · CI/CD · Selenium · TestNG · JUnit · Cucumber · Liquibase · Bash · Git<br>
+**Skills used:** Java · Spring Framework · SQL · Gradle · Jenkins · CI/CD · Selenium · TestNG · JUnit · Cucumber · Liquibase · Bash · Git<br>
 
 * Participated in the development of the web application with microservices architecture
 * Participated in the Code Review sessions receiving positive feedback every time
@@ -42,7 +42,7 @@ QA Automation Engineer _(Feb 2019 - Aug 2022)_<br>
 **Simcord LLC**<br>
 
 QA Automation Engineer _(Jun 2017 - Feb 2019)_<br>
-**Skills:** Java · Spring Framework · SQL · Maven · Jenkins · CI/CD · JUnit · Groovy · Go (Programming Language) · Elasticsearch · Redis · RabbitMQ · Docker · Kubernetes · Bash · Ubuntu · Git
+**Skills used:** Java · Spring Framework · SQL · Maven · Jenkins · CI/CD · JUnit · Groovy · Go (Programming Language) · Elasticsearch · Redis · RabbitMQ · Docker · Kubernetes · Bash · Ubuntu · Git
 
 * Wrote performance and functional automated API tests
 * Participated in analyzing requirements

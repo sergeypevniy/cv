@@ -34,7 +34,7 @@ QA Automation Engineer _(Feb 2019 - Aug 2022)_<br>
 
 * Participated in the development of the web application with microservices architecture
 * Participated in the Code Review sessions receiving positive feedback every time
-* Mentored multiple QA Automation Engineers
+* Mentored team of QA Automation Engineers
 * Created a complete video-instruction for newcomers 
 * Created a large set of both UI and API tests for the application
 

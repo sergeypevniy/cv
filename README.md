@@ -13,7 +13,7 @@
 <br>
 
 ## Summary
-Software Engineer with experience with both software development and automated testing. Worked on multiple projects in financial, cryptocurrency, and copyright domains. Able to work independently and as a team member in a dynamic software development environment. Has deep knowledge of the object-oriented paradigm. 
+Software Engineer with experience in both software development and automated testing. Worked on multiple projects in financial, cryptocurrency, and copyright domains. Able to work independently and as a team member in a dynamic software development environment. Has deep knowledge of the object-oriented paradigm. 
 
 ## Skills
 **Have hands-on experience**<br>

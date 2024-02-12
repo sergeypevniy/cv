@@ -29,7 +29,7 @@ Software Engineer with experience in both software development and automated tes
 Software Engineer _(Jul 2023 - Feb 2024)_<br>
 **Skills used:** C# · PostgreSQL · Docker · Jenkins · CI/CD · Selenium · xUnit · Gherkin · Bash · Git<br>
 
-* Single handedly created a solution for automated testing from scratch
+* Single-handedly created a solution for automated testing from scratch (including: Creation of automation framework, setup of reporting tools + development of a custom sollutions for reporting, creation of CI/CD pipeline, and creation of ~150 test scenarios)
 * Participated in the development of backend applications
 
 

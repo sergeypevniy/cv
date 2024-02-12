@@ -17,7 +17,7 @@ Software Engineer with experience with both software development and automated t
 
 ## Skills
 **Have hands-on experience**<br>
-* Java, Spring, SQL, Gradle, Maven, Groovy, Jenkins, CI/CD, Selenium, TestNG, JUnit, JBehave, Cucumber
+* C#, Java, Spring, SQL, Gradle, Maven, Groovy, Jenkins, CI/CD, Selenium, TestNG, JUnit, xUnit, JBehave, Specflow, Cucumber
 
 **Familiar**<br>
 * Python, Kotlin, GoLang, MongoDB, Liquibase, Elastic Search, Redis, RabbitMQ, Docker, Kubernetes, Hibernate, HTML/CSS

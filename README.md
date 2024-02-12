@@ -13,7 +13,7 @@
 <br>
 
 ## Summary
-QA Engineer (automation and manual testing) with more than 6 years of cross-cutting experience in testing and software development. Worked on multiple projects in financial, cryptocurrency, and copyright domains. Able to work independently and as a team member in a dynamic software development environment. Has deep knowledge of the object-oriented paradigm. Participated in the project development using Spring Framework. Has strong analytical and leadership skills.
+Software Engineer with experience with both software development and automated testing. Worked on multiple projects in financial, cryptocurrency, and copyright domains. Able to work independently and as a team member in a dynamic software development environment. Has deep knowledge of the object-oriented paradigm. 
 
 ## Skills
 **Have hands-on experience**<br>
@@ -23,6 +23,15 @@ QA Engineer (automation and manual testing) with more than 6 years of cross-cutt
 * Python, Kotlin, GoLang, MongoDB, Liquibase, Elastic Search, Redis, RabbitMQ, Docker, Kubernetes, Hibernate, HTML/CSS
 
 ## Work experience
+
+**innRoad**<be>
+
+Software Engineer _(Jul 2023 - Feb 2024)_<be>
+**Skills used:** C# · PostgreSQL · Docker · Jenkins · CI/CD · Selenium · xUnit · Gherkin · Bash · Git<be>
+
+* Single handedly created a solution for automated testing from scratch
+* Participated in the development of backend applications
+
 
 **EPAM Systems**<br>
 

@@ -24,10 +24,10 @@ Software Engineer with experience with both software development and automated t
 
 ## Work experience
 
-**innRoad**<be>
+**innRoad**<br>
 
-Software Engineer _(Jul 2023 - Feb 2024)_<be>
-**Skills used:** C# · PostgreSQL · Docker · Jenkins · CI/CD · Selenium · xUnit · Gherkin · Bash · Git<be>
+Software Engineer _(Jul 2023 - Feb 2024)_<br>
+**Skills used:** C# · PostgreSQL · Docker · Jenkins · CI/CD · Selenium · xUnit · Gherkin · Bash · Git<br>
 
 * Single handedly created a solution for automated testing from scratch
 * Participated in the development of backend applications

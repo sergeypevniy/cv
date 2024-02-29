@@ -20,7 +20,7 @@ Senior QA Automation Engineer with experience in both automated testing and soft
 * C#, Java, Spring, SQL, Gradle, Maven, Groovy, Jenkins, CI/CD, Selenium, TestNG, JUnit, xUnit, JBehave, Specflow, Cucumber
 
 **Familiar**<br>
-* Python, Kotlin, GoLang, MongoDB, Liquibase, Elastic Search, Redis, RabbitMQ, Docker, Kubernetes, Hibernate, HTML/CSS
+* GoLang, Python, Kotlin, MongoDB, Liquibase, Elastic Search, Redis, RabbitMQ, Docker, Kubernetes, Hibernate, HTML/CSS
 
 ## Work experience
 
@@ -29,7 +29,7 @@ Senior QA Automation Engineer with experience in both automated testing and soft
 Senior QA Automation Engineer _(Jul 2023 - Feb 2024)_<br>
 **Skills used:** C# · PostgreSQL · Docker · Jenkins · CI/CD · Selenium · xUnit · Gherkin · Bash · Git<br>
 
-* Single-handedly created a solution for automated testing from scratch (including the creation of automation framework, setup of reporting tools + development of custom solutions for reporting, creation of CI/CD pipeline, and creation of ~150 test scenarios)
+* Single-handedly created a solution for automated testing from scratch (including the creation of automation framework, setup of reporting tools + development of custom solutions for reporting, creation of CI/CD pipeline, and creation of a large set of test scenarios)
 * Participated in the development of backend applications
 
 

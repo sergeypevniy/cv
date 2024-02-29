@@ -13,7 +13,7 @@
 <br>
 
 ## Summary
-Software Engineer with experience in both software development and automated testing. Worked on multiple projects in financial, cryptocurrency, and copyright domains. Able to work independently and as a team member in a dynamic software development environment. Has deep knowledge of the object-oriented paradigm. 
+Senior QA Automation Engineer with experience in both automated testing and software development. Worked on multiple projects in financial, cryptocurrency, and copyright domains. Able to work independently and as a team member in a dynamic software development environment. Has deep knowledge of the object-oriented paradigm.
 
 ## Skills
 **Have hands-on experience**<br>
@@ -26,24 +26,21 @@ Software Engineer with experience in both software development and automated tes
 
 **innRoad**<br>
 
-Software Engineer _(Jul 2023 - Feb 2024)_<br>
+Senior QA Automation Engineer _(Jul 2023 - Feb 2024)_<br>
 **Skills used:** C# · PostgreSQL · Docker · Jenkins · CI/CD · Selenium · xUnit · Gherkin · Bash · Git<br>
 
-* Single-handedly created a solution for automated testing from scratch (including the creation of automation framework, setup of reporting tools + development of a custom solutions for reporting, creation of CI/CD pipeline, and creation of ~150 test scenarios)
+* Single-handedly created a solution for automated testing from scratch (including the creation of automation framework, setup of reporting tools + development of custom solutions for reporting, creation of CI/CD pipeline, and creation of ~150 test scenarios)
 * Participated in the development of backend applications
 
 
 **EPAM Systems**<br>
-
-Software Engineer _(Aug 2022 - Feb 2023)_<br>
-**Skills used:** Java · Spring Framework · SQL · Gradle · Jenkins · CI/CD · Liquibase · Bash · Git<br>
 
 QA Automation Engineer _(Feb 2019 - Aug 2022)_<br>
 **Skills used:** Java · Spring Framework · SQL · Gradle · Jenkins · CI/CD · Selenium · TestNG · JUnit · Cucumber · Liquibase · Bash · Git<br>
 
 * Participated in the development of the web application with microservices architecture
 * Participated in the Code Review sessions receiving positive feedback every time
-* Mentored team of QA Automation Engineers
+* Mentored a team of QA Automation Engineers
 * Created a complete video-instruction for newcomers 
 * Created a large set of both UI and API tests for the application
 

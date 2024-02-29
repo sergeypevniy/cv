@@ -35,7 +35,7 @@ Senior QA Automation Engineer _(Jul 2023 - Feb 2024)_<br>
 
 **EPAM Systems**<br>
 
-QA Automation Engineer _(Feb 2019 - Aug 2022)_<br>
+QA Automation Engineer _(Feb 2019 - Feb 2023)_<br>
 **Skills used:** Java · Spring Framework · SQL · Gradle · Jenkins · CI/CD · Selenium · TestNG · JUnit · Cucumber · Liquibase · Bash · Git<br>
 
 * Participated in the development of the web application with microservices architecture

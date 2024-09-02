@@ -19,10 +19,13 @@ Dedicated data processing and data entry professional with 5 years of experience
 
 Embedded Engineer _(Jun 2024 - Present)_<br>
 * Created MVP for STM32 based device <br>
+
 AI prompt Engineer _(Apr 2024 - Present)_<br>
-* Participated in the development of an AI-based application for test case generation <br>
+* Participated in the development of an AI-based application for test case generation <be>
+
 Data Entry _(Apr 2022 - Present)_<br>
-* Creation and management of data sets for AI model training <br>
+* Creation and management of data sets for AI model training <be>
+
 **Skills used:** Python · Swift · Bash · Docker · Jenkins · AWS · Git · NoSQL <br>
 
 
